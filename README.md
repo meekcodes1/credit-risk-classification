@@ -20,4 +20,4 @@ Model 2
 - Recall = [0: 0.84], [1: 0.99]. These scores answer the question, what percent of positives/negatives were identified correctly.
 
 ## Summary
-- The following model could be useful to use for the lending company. The model is very accurate at identifying 0 (healthy) borrowers. It is less accurate at identifying 1(unhealthy) borrowers. This is a potential risk that should be acknowledged for any user of the model. The oversampled model does perform more accurately and should be considered for use over the original model. It has, however, a lower recall score. This means that fewer healthy borrowers were identified correctly.
+- The models could be useful to use for the lending company. Model 1 is very accurate at identifying 0 (healthy) borrowers. It is less accurate at identifying 1(unhealthy) borrowers. This is a potential risk that should be acknowledged for any user of the model. The oversampled model 2 does perform more accurately and should be considered for use over the original model. It has, however, a lower recall score. This means that fewer healthy borrowers were identified correctly.
