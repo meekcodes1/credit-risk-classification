@@ -1,8 +1,12 @@
 # credit-risk-classification
 
+Files in this repository:
+- Credit_Risk > "credit_risk_classification.ipynb" contains the code for the models
+- Credit_Risk > "lending_data.csv" contains the source data
 -----
 Credit Risk Analysis Report:
 -----
+
 ## Overview of the Analysis
 - In this activity, we are analyzing lending activity data from a lender in order to classify borrowers as either 0 (healthy) or 1 (high risk of defaulting).
 
